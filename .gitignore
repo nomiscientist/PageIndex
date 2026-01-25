@@ -6,10 +6,11 @@ temp/*
 chroma-collections.parquet
 chroma-embeddings.parquet
 .DS_Store
-.env*
 notebook
 SDK/*
 log/*
 logs/
 parts/*
 json_results/*
+config.bat
+node_modules
